@@ -1,6 +1,6 @@
 import axios from "axios";
 
 export default axios.create({
-    baseURL: 'https://telegram-bot-admin-pi.vercel.app/'
+    baseURL: 'https://nest-backend-bot.vercel.app/'
 
 });
